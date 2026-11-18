@@ -36,6 +36,12 @@ function App() {
         ))}
       </ul>
 
+       {materialSelecionado && pesoNota > 0 && (
+        <p>
+          { `A quantidade na nota é de ${Math.round(pesoNota / materialSelecionado.pesoUnit)} unidades` }
+        </p>
+      )}
+
     </>
   )
 
