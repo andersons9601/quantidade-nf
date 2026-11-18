@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "nome": "Chapa aço #26 2 x 1m",
+        "pesoUnit": 7.2
+    },
+    {
+        "id": 2,
+        "nome": "Chapa aço #24 2 x 1m",
+        "pesoUnit": 9.6
+    },
+    {
+        "id": 3,
+        "nome": "Chapa aço #22 2 x 1m",
+        "pesoUnit": 12.0
+    }
+]
